@@ -2,7 +2,7 @@
 
 
 
-![E-commerce ERD](Sql image.png)
+![E-commerce ERD](sqlimage.png)
 
 ## 📦 Project Overview
 
