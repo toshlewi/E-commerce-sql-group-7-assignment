@@ -122,8 +122,3 @@ LEFT JOIN product_image img ON p.product_id = img.product_id;
 This project is for academic purposes only.
 
 ```
-
----
-
-Would you like me to export all this as files (`.sql`, `.md`, and `.png`) in a zipped folder for easier GitHub upload?
-```
