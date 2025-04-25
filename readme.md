@@ -1,8 +1,8 @@
 ## 🛒 E-commerce Database Architecture
 
-# 🛍️ E-commerce Database Architecture
 
-![E-commerce ERD](sql%20image.png)
+
+![E-commerce ERD](sql image.png)
 
 ## 📦 Project Overview
 
